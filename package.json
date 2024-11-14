@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "echo 'Build step is not needed for this app.'"
   },
   "keywords": [],
   "author": "",
@@ -18,3 +19,4 @@
     "vercel": "^39.0.2"
   }
 }
+
